@@ -1,0 +1,134 @@
+body
+{
+	background-color: black;
+	text-align: center;
+}
+
+h1
+{
+	color: #A70202;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 66px;
+	padding-top: 30px;
+}
+
+#paragraph
+{
+	color: white;
+	font-size: 25px;
+}
+
+#note
+{
+	color: #635C5C;
+	font-style: italic;
+}
+
+#paragraph1
+{
+	color: white;
+	font-size: 25px;
+	padding-top: 30px;
+}
+
+.center
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#quote
+{
+	font-size: 40px;
+	font-style: italic;
+	color: #A70202;
+}
+
+#paragraph2
+{
+	color: #C7C3C3;
+	font-size: 25px;
+}
+
+#note1
+{
+	color: #A5B29E;
+	font-style: italic;	
+}
+
+#paragraph3
+{
+	color: #C7C3C3;
+	font-size: 25px;
+	padding-top: 30px;
+}
+
+#quote1
+{
+	font-size: 40px;
+	font-style: italic;
+	color: #291919;
+}
+
+#paragraph4
+{
+	color: #AFB4FF;
+	font-size: 25px;
+}
+
+#paragraph5
+{
+	color: #AFB4FF;
+	font-size: 25px;
+	padding-top: 30px;
+}
+
+#elements
+{
+	background-color: #A3A3A3;
+}
+
+#color
+{
+	background-color: #891A1A;
+}
+
+#color1
+{
+	background-color: #2931AE;
+}
+
+#note2
+{
+	color: #A5B29E;
+	font-style: italic;	
+}
+
+#quote2
+{
+	color: #294AAE;
+	font-size: 40px;
+	font-style: italic;	
+}
+
+.water
+{
+	color: #678CF1;
+	font-size: 25px;	
+}
+
+.water1
+{
+	color: #678CF1;
+	font-size: 25px;
+	padding-top: 30px;	
+}
+
+div
+{
+	font-size: 25px;
+	font-weight: bold;
+}
